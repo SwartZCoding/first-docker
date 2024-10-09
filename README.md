@@ -29,5 +29,5 @@ Tous les conteneurs communiquent via le réseau Docker app-network.
    ```bash
    docker-compose up --build
    Accédez au frontend à l'adresse : http://localhost:3000
-   Accédez au frontend à l'adresse : http://localhost:3333
+   Accédez au backend à l'adresse : http://localhost:3333
    ```
